@@ -6,3 +6,6 @@ def minus(a, b):
 
 def times(a, b):
     return a * b
+
+def equal(a, b):
+    return a == b
